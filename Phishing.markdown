@@ -1,4 +1,4 @@
-#### Protocol used in Email
+### Protocol used in Email
 ##### SMTP (Simple Mail Transfer Protocol):
 -  It is utilized to handle the sending of emails.
 ##### POP3 ( Post Office Protocol):
@@ -11,7 +11,7 @@
 ##### Note:
 - The syntax for email messages is known as the Internet Message Format (IMF).
   
-#### Headers of Email
+### Headers of Email
 
 ##### To:
 - Receiver of the email
